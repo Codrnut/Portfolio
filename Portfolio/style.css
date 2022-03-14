@@ -47,7 +47,7 @@ h3 {
 
 #home-cover {
   height: 100%;
-  background-image: url("wallpaper.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("wallpaper.jpg");
 }
 
 #home-content-box {
@@ -148,7 +148,7 @@ h3 {
 }
 
 header{
-  font-family:;
+  font-family: ;
   font-weight: 300;
   font-size: 50px;
   color: white;
